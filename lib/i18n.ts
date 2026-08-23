@@ -245,7 +245,7 @@ export const translations = {
       eyebrow: 'À propos du Coach',
       title: 'Bonjour, je suis Sacha.',
       paragraphs: [
-        "Je suis un athlète de haut niveau de 20 ans et je construis les physiques comme un ingénieur construit des systèmes — avec mesure, tolérances et preuves. Ma formation en ingénierie et en commerce m'a appris à me méfier de l'à-peu-près et à respecter les données, et j'applique cette même discipline à chaque protocole d'entraînement et de nutrition que je rédige.",
+        "Je suis un athlète de haut niveau et je construis les physiques comme un ingénieur construit des systèmes — avec mesure, tolérances et preuves. Ma formation en ingénierie et en commerce m'a appris à me méfier de l'à-peu-près et à respecter les données, et j'applique cette même discipline à chaque protocole d'entraînement et de nutrition que je rédige.",
         "Le coaching asynchrone est un choix délibéré. Il oblige tout à être documenté, précis et vérifiable : votre programme vit dans un PDF et un tableur structurés, votre technique est analysée image par image à partir des vidéos que vous envoyez, et chaque ajustement est justifié. Aucun appel précipité, aucun indice vague.",
         "Je suis certifié WADA / ADEL antidopage et engagé dans un coaching propre et axé sur la santé. Mon objectif est simple : vous donner un système que vous comprenez, que vous pouvez exécuter partout, et auquel vous pouvez faire confiance pour des résultats reproductibles.",
       ],
