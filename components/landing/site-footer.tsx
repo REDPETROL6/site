@@ -89,7 +89,7 @@ export function SiteFooter() {
 
         <div className="mt-12 flex flex-col items-center justify-between gap-3 border-t border-border pt-6 sm:flex-row">
           <p className="text-xs font-medium text-muted-foreground">
-            © {new Date().getFullYear()} SL Performance. All rights reserved.
+            © {new Date().getFullYear()} SL Coaching. All rights reserved.
           </p>
           <p className="text-xs font-medium text-muted-foreground">
             WADA / ADEL Certified · Clean Sport
